@@ -178,8 +178,9 @@ a:focus {
 }
 
 .hidden {
-  display: none;
+ display: none;
 }
+
 
 .modal-dialog {
   width: auto;
